@@ -35,7 +35,7 @@ def get_arguments(args):
             print(f"{password} was found {count} times, change your password")
         else:
             print(f"{password} was not found, use it")
-    return 'Done'
+    return 'Done BRO'
 
 
 if __name__ == '__main__':
